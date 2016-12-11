@@ -1,0 +1,15 @@
+var os=require("os");
+console.log("Default directory for temp files"+os.tmpdir());
+console.log("Endianness(BE)or(LE):"+os.endianness());
+console.log("Hostname:"+os.hostname());
+console.log("Type:"+os.type());
+console.log("Arch:"+os.arch());
+console.log("Platform:"+os.platform());
+console.log("Release:"+os.release());
+console.log("Total memory:"+os.totalmem());
+console.log("Free memory:"+os.freemem());
+console.log("Uptime:"+os.uptime());
+console.log("LoadAvg:"+os.loadavg());
+console.log("Cpus:"+ os.cpus());
+console.log("NetworkInterfaces:"+os.networkInterfaces());
+console.log("EOL:"+os.EOL);

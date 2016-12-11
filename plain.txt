@@ -1,0 +1,4 @@
+C was developed by dennis ritche.
+C++ was developed bY BjarneStroStup.
+Java was developed by JamesGosling.
+Node.js was developed by Ryan Dhal.
